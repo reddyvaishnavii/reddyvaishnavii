@@ -33,7 +33,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddyvaishnavii&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddyvaishnavii&show_icons=true&theme=tokyonight)
 
 ---
 
