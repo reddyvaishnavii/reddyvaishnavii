@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on impactful tech projects & hackathons
 - 🤔 I’m looking for help with open source contributions and backend optimization
 - 💬 Ask me about MERN stack, AI, ML, or project development
-- 📫 How to reach me: www.linkedin.com/in/vaishnavi-reddy-955995289
+- 📫 How to reach me: [www.linkedin.com/in/vaishnavi-reddy-955995289](https://www.linkedin.com/in/vaishnavi-reddy-789645299/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can switch from debugging code to choreographing dance routines in the same hour ✨
 
