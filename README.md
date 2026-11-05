@@ -1,41 +1,64 @@
-## Hi there 👋 I'm Vaishnavi Reddy
+# Hi there 👋 I'm Vaishnavi Reddy
 
-💻 B.Tech CSE (AI & ML) Student  
-✨ Passionate about AI, full-stack development, and building impactful tech
+💻 B.Tech Computer Science & Engineering (AI & ML) Student  
+🤖 Aspiring AI Engineer | Software Engineering Enthusiast
 
-- 🔭 I’m currently working on AI & MERN stack projects
-- 🌱 I’m currently learning AI integrations, advanced React, and system design
-- 👯 I’m looking to collaborate on impactful tech projects & hackathons
-- 🤔 I’m looking for help with open source contributions and backend optimization
-- 💬 Ask me about MERN stack, AI, ML, or project development
-- 📫 How to reach me: [www.linkedin.com/in/vaishnavi-reddy-955995289](https://www.linkedin.com/in/vaishnavi-reddy-789645299/)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can switch from debugging code to choreographing dance routines in the same hour ✨
+I enjoy building intelligent applications and engineering systems that solve real-world problems. My interests span AI/ML, distributed systems, backend engineering, and full-stack development.
 
----
-
-## 🚀 Tech Stack
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+- 🔭 Exploring AI engineering, LLM applications, and distributed systems
+- 🌱 Learning system design, advanced DSA, and scalable software architecture
+- 👯 Open to collaborating on meaningful software and AI projects
+- 💬 Ask me about Python, Java, AI/ML, distributed systems, and full-stack development
+- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/vaishnavi-reddy-955995289/)
 
 ---
 
-## 🌸 About Me
-- 🤖 AI/ML enthusiast
-- 🌍 Building real-world projects
-- 🚀 Passionate about learning and growth
-- 💡 Exploring tech that creates real impact
+## 🚀 Featured Projects
+
+### 🤖 Incident Zero — Agentic AI On-Call Engineer
+Built with a team, extending Bosch's OpenTelemetry demo into an agentic incident diagnosis and response system.
+- Worked on metrics and distributed trace analysis for microservice incident diagnosis.
+- Integrated observability signals from Prometheus and Jaeger into the diagnosis workflow.
+- Explored evidence-backed root-cause analysis and human-approved remediation.
+- **Repository:** [Team Repository](TEAM_REPOSITORY_URL) *(Private — add only if sharing is permitted)*
+
+### ⚙️ MiniRaft — Distributed Consensus System
+- Built a Raft-inspired replicated system with three Node.js replicas.
+- Implemented leader election, heartbeats, log replication, and failure recovery.
+- **Repository:** [MiniRaft](https://github.com/reddyvaishnavii/miniraft)
+
+### 🧠 Local Second Brain — Offline RAG Assistant
+- Developed an offline document-question-answering system using embeddings and FAISS.
+- Integrated semantic retrieval and LLM-based response generation.
+- **Repository:** [Local Second Brain](https://github.com/reddyvaishnavii/local-second-brain)
+
+### 🩺 Retinal Biomarker Detection
+- Worked on retinal OCT image analysis using Swin Transformer and deep learning.
+- Explored explainability techniques for model interpretation.
+- **Repository:** [Retinal Biomarker Detection](YOUR_RETINAL_PROJECT_REPOSITORY_URL)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddyvaishnavii&show_icons=true&theme=tokyonight)
+## 🛠️ Tech Stack
+
+**Languages:** Java, Python, C++, C, JavaScript, SQL
+
+**AI/ML:** PyTorch, Scikit-learn, Deep Learning, NLP, LLMs, RAG, FAISS
+
+**Software Engineering:** DSA, OOP, REST APIs, Distributed Systems, Node.js, React
+
+**Databases:** MySQL, MongoDB, Firebase
+
+**Tools & Technologies:** Docker, Git, GitHub Actions, Jenkins, OpenTelemetry, Prometheus, Jaeger
 
 ---
 
-## ✨ Quote
-> “Small consistent steps > perfection.”
+## 🌸 Beyond Code
+
+🎨 Painting | 💃 Dancing | 📚 Reading | 🏐 Volleyball
+
+I enjoy learning, experimenting, collaborating, and turning ideas into working projects.
+
+---
+
+✨ *Small consistent steps > perfection.*
