@@ -30,7 +30,7 @@ A team-built project extending Bosch's OpenTelemetry demo into an agentic incide
 - Integrated semantic retrieval and LLM-based response generation.
 
 ### 🩺 Retinal Biomarker Detection from OCT Images
-- Explored retinal OCT image analysis using Swin Transformer and deep learning.
+- Explored retinal OCT image analysis using MobileNetV3.
 - Worked on model evaluation and explainability for retinal biomarker detection.
 
 ---
