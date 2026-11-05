@@ -1,41 +1,37 @@
-# Hi there 👋 I'm Vaishnavi Reddy
+# Hi there 👋 I'm Vaishnavi Reddy!
 
 💻 B.Tech Computer Science & Engineering (AI & ML) Student  
 🤖 Aspiring AI Engineer | Software Engineering Enthusiast
 
-I enjoy building intelligent applications and engineering systems that solve real-world problems. My interests span AI/ML, distributed systems, backend engineering, and full-stack development.
+I'm passionate about building technology that makes a difference. I enjoy exploring the intersection of **Artificial Intelligence and Software Engineering**, turning ideas into practical applications, and learning by building things that challenge me.
 
-- 🔭 Exploring AI engineering, LLM applications, and distributed systems
-- 🌱 Learning system design, advanced DSA, and scalable software architecture
-- 👯 Open to collaborating on meaningful software and AI projects
-- 💬 Ask me about Python, Java, AI/ML, distributed systems, and full-stack development
-- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/vaishnavi-reddy-955995289/)
+- 🔭 Exploring AI engineering, LLM applications, and distributed systems.
+- 🌱 Currently strengthening my foundations in system design, DSA, and scalable software development.
+- 👯 Always open to collaborating on interesting projects, hackathons, and meaningful tech initiatives.
+- 💬 Feel free to talk to me about Python, Java, AI/ML, distributed systems, or full-stack development.
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/vaishnavi-reddy-789645299/)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Incident Zero — Agentic AI On-Call Engineer
-Built with a team, extending Bosch's OpenTelemetry demo into an agentic incident diagnosis and response system.
+### 🤖 [Incident Zero — Agentic AI On-Call Engineer](https://github.com/boschagent/opentelemetry-demo)
+A team-built project extending Bosch's OpenTelemetry demo into an agentic incident diagnosis and response system.
 - Worked on metrics and distributed trace analysis for microservice incident diagnosis.
 - Integrated observability signals from Prometheus and Jaeger into the diagnosis workflow.
-- Explored evidence-backed root-cause analysis and human-approved remediation.
-- **Repository:** [Team Repository](TEAM_REPOSITORY_URL) *(Private — add only if sharing is permitted)*
+- Contributed to evidence-backed root-cause analysis and human-in-the-loop remediation workflows.
 
-### ⚙️ MiniRaft — Distributed Consensus System
+### ⚙️ [MiniRaft — Distributed Consensus System](https://github.com/reddyvaishnavii/miniraft)
 - Built a Raft-inspired replicated system with three Node.js replicas.
 - Implemented leader election, heartbeats, log replication, and failure recovery.
-- **Repository:** [MiniRaft](https://github.com/reddyvaishnavii/miniraft)
 
-### 🧠 Local Second Brain — Offline RAG Assistant
+### 🧠 [Local Second Brain — Offline RAG Assistant](https://github.com/reddyvaishnavii/local-second-brain)
 - Developed an offline document-question-answering system using embeddings and FAISS.
 - Integrated semantic retrieval and LLM-based response generation.
-- **Repository:** [Local Second Brain](https://github.com/reddyvaishnavii/local-second-brain)
 
-### 🩺 Retinal Biomarker Detection
-- Worked on retinal OCT image analysis using Swin Transformer and deep learning.
-- Explored explainability techniques for model interpretation.
-- **Repository:** [Retinal Biomarker Detection](YOUR_RETINAL_PROJECT_REPOSITORY_URL)
+### 🩺 Retinal Biomarker Detection from OCT Images
+- Explored retinal OCT image analysis using Swin Transformer and deep learning.
+- Worked on model evaluation and explainability for retinal biomarker detection.
 
 ---
 
@@ -55,9 +51,20 @@ Built with a team, extending Bosch's OpenTelemetry demo into an agentic incident
 
 ## 🌸 Beyond Code
 
-🎨 Painting | 💃 Dancing | 📚 Reading | 🏐 Volleyball
+When I'm not coding, you'll probably find me painting, dancing, reading, or playing volleyball. I love exploring new things, taking on challenges, and finding creative ways to express myself.
 
-I enjoy learning, experimenting, collaborating, and turning ideas into working projects.
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reddyvaishnavii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyvaishnavii&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=reddyvaishnavii&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
